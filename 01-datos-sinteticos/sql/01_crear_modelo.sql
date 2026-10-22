@@ -1,7 +1,3 @@
--- 01_crear_modelo.sql
--- Modelo estrella para el análisis de retail e inventarios.
--- Dimensiones: dim_fecha, dim_tienda, dim_producto
--- Hechos: fact_ventas, fact_inventario_semanal, fact_transferencias, fact_conteo_ciclico
 
 CREATE DATABASE IF NOT EXISTS portafolio_retail
     CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
