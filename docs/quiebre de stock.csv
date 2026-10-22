@@ -1,0 +1,13 @@
+nombre_tienda,formato,registros_semanales,quiebres,tasa_quiebre_pct
+"Tienda San Borja",Grande,10600,197,1.86
+"Tienda Ate",Mediana,10600,181,1.71
+"Tienda Los Olivos",Grande,10600,173,1.63
+"Tienda La Molina",Grande,10600,171,1.61
+"Tienda San Miguel",Mediana,10600,170,1.60
+"Tienda San Isidro",Mediana,10600,160,1.51
+"Tienda Surco",Grande,10600,157,1.48
+"Tienda Callao",Mediana,10600,149,1.41
+"Tienda Miraflores",Mediana,10600,146,1.38
+"Tienda Lince",Pequeña,10600,119,1.12
+"Tienda Magdalena",Pequeña,10600,112,1.06
+"Tienda Jesús María",Pequeña,10600,109,1.03

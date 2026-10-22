@@ -1,0 +1,13 @@
+formato,nombre_tienda,ventas_netas,ranking_en_formato
+Grande,"Tienda La Molina",11749615.40,1
+Grande,"Tienda San Borja",11725611.05,2
+Grande,"Tienda Los Olivos",11662258.45,3
+Grande,"Tienda Surco",11594091.95,4
+Mediana,"Tienda Ate",8423527.02,1
+Mediana,"Tienda San Miguel",8347824.71,2
+Mediana,"Tienda Callao",8343093.26,3
+Mediana,"Tienda Miraflores",8335155.60,4
+Mediana,"Tienda San Isidro",8244676.89,5
+Pequeña,"Tienda Magdalena",5002171.37,1
+Pequeña,"Tienda Lince",4943939.05,2
+Pequeña,"Tienda Jesús María",4925740.18,3
