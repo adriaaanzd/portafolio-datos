@@ -1,14 +1,3 @@
-"""
-cargar_mysql.py
-Crea la base de datos "portafolio_retail" en tu MySQL local (ejecutando
-sql/01_crear_modelo.sql) y carga los CSV de la carpeta data/.
-
-Uso:
-    pip install pandas pymysql
-    python cargar_mysql.py
-
-La contraseña se pide por teclado: no se guarda en ningún archivo.
-"""
 import getpass
 from pathlib import Path
 
