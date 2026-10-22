@@ -1,0 +1,13 @@
+id_tienda,nombre_tienda,distrito,formato
+1,Tienda San Borja,San Borja,Grande
+2,Tienda Miraflores,Miraflores,Mediana
+3,Tienda San Isidro,San Isidro,Mediana
+4,Tienda Surco,Surco,Grande
+5,Tienda La Molina,La Molina,Grande
+6,Tienda Jesús María,Jesús María,Pequeña
+7,Tienda Lince,Lince,Pequeña
+8,Tienda Magdalena,Magdalena,Pequeña
+9,Tienda San Miguel,San Miguel,Mediana
+10,Tienda Los Olivos,Los Olivos,Grande
+11,Tienda Callao,Callao,Mediana
+12,Tienda Ate,Ate,Mediana
